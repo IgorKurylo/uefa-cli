@@ -1,0 +1,11 @@
+{
+  "name": "uefa-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Igor Kurylo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "typescript": "^4.4.3"
+  }
+}
